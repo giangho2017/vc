@@ -1,5 +1,4 @@
-{
-  "coupons": [
+[
     {
       "image_url": "https://bloghoantien.com/public/img/mgg/freeship.jpg",
       "store_name": "Freeship",
@@ -70,5 +69,5 @@
       "expiry_date": "2025-07-31",
       "url": "https://s.shopee.vn/6VCvdtSORn"
     }
-  ]
-}
+]
+
