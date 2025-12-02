@@ -1,5 +1,75 @@
 [
     {
+    "image_url": "https://tui3gang.com/images/logo-lazada-coupon.png",
+    "store_name": "Lazada",
+    "code": "TIKTOK15K",
+    "usage_percentage": 96,
+    "description": "Giảm 15k",
+    "min_order": "150k",
+    "expiry_date": "2025-10-31",
+    "url": "https://vt.tiktok.com/ZSHvpWWdJCAu9-OfKNZ/"
+  },
+  {
+    "image_url": "https://bloghoantien.com/img/icon/logo-tiktok-shop-200.png",
+    "store_name": "TikTok Shop",
+    "code": "TIKTOK35K",
+    "usage_percentage": 90,
+    "description": "Giảm 35k",
+    "min_order": "0 đồng",
+    "expiry_date": "2025-10-31",
+    "url": "https://vt.tiktok.com/ZSHvpWWdJCAu9-OfKNZ/"
+  },
+  {
+    "image_url": "https://bloghoantien.com/img/icon/logo-tiktok-shop-200.png",
+    "store_name": "TikTok Shop",
+    "code": "SHOP70K",
+    "usage_percentage": 89,
+    "description": "Giảm 70k",
+    "min_order": "1k",
+    "expiry_date": "2025-10-31",
+    "url": "https://vt.tiktok.com/ZSHvpWWdJCAu9-OfKNZ/"
+  },
+  {
+    "image_url": "https://bloghoantien.com/img/icon/logo-tiktok-shop-200.png",
+    "store_name": "TikTok Shop",
+    "code": "FLASH20K",
+    "usage_percentage": 42,
+    "description": "Giảm 30k",
+    "min_order": "45k",
+    "expiry_date": "2025-10-31",
+    "url": "https://vt.tiktok.com/ZSHvpWWdJCAu9-OfKNZ/"
+  },
+  {
+    "image_url": "https://bloghoantien.com/img/icon/logo-tiktok-shop-200.png",
+    "store_name": "TikTok Shop",
+    "code": "SALE50K",
+    "usage_percentage": 78,
+    "description": "Giảm 45k",
+    "min_order": "75k",
+    "expiry_date": "2025-10-31",
+    "url": "https://vt.tiktok.com/ZSHvpWWdJCAu9-OfKNZ/"
+  },
+  {
+    "image_url": "https://bloghoantien.com/img/icon/logo-tiktok-shop-200.png",
+    "store_name": "TikTok Shop",
+    "code": "BLOG10K",
+    "usage_percentage": 86,
+    "description": "Giảm 70k",
+    "min_order": "110k",
+    "expiry_date": "2025-10-31",
+    "url": "https://vt.tiktok.com/ZSHvpWWdJCAu9-OfKNZ/"
+  },
+  {
+    "image_url": "https://bloghoantien.com/img/icon/logo-tiktok-shop-200.png",
+    "store_name": "TikTok Shop",
+    "code": "DEAL25K",
+    "usage_percentage": 68,
+    "description": "Giảm 80k",
+    "min_order": "250k",
+    "expiry_date": "2025-10-31",
+    "url": "https://vt.tiktok.com/ZSHvpWWdJCAu9-OfKNZ/"
+  },
+    {
       "image_url": "https://bloghoantien.com/public/img/mgg/freeship.jpg",
       "store_name": "Freeship",
       "code": "FREESHIP0D",
