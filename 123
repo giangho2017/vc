@@ -1,0 +1,142 @@
+[
+    {
+    "image_url": "https://tui3gang.com/images/logo-lazada-coupon.png",
+    "store_name": "Lazada",
+    "code": "TIKTOK15K",
+    "usage_percentage": 96,
+    "description": "Giảm 15k",
+    "min_order": "150k",
+    "expiry_date": "2025-10-31",
+    "url": "https://vt.tiktok.com/ZSHvpWWdJCAu9-OfKNZ/"
+  },
+  {
+    "image_url": "https://bloghoantien.com/img/icon/logo-tiktok-shop-200.png",
+    "store_name": "TikTok Shop",
+    "code": "TIKTOK35K",
+    "usage_percentage": 90,
+    "description": "Giảm 35k",
+    "min_order": "0 đồng",
+    "expiry_date": "2025-10-31",
+    "url": "https://vt.tiktok.com/ZSHvpWWdJCAu9-OfKNZ/"
+  },
+  {
+    "image_url": "https://bloghoantien.com/img/icon/logo-tiktok-shop-200.png",
+    "store_name": "TikTok Shop",
+    "code": "SHOP70K",
+    "usage_percentage": 89,
+    "description": "Giảm 70k",
+    "min_order": "1k",
+    "expiry_date": "2025-10-31",
+    "url": "https://vt.tiktok.com/ZSHvpWWdJCAu9-OfKNZ/"
+  },
+  {
+    "image_url": "https://bloghoantien.com/img/icon/logo-tiktok-shop-200.png",
+    "store_name": "TikTok Shop",
+    "code": "FLASH20K",
+    "usage_percentage": 42,
+    "description": "Giảm 30k",
+    "min_order": "45k",
+    "expiry_date": "2025-10-31",
+    "url": "https://vt.tiktok.com/ZSHvpWWdJCAu9-OfKNZ/"
+  },
+  {
+    "image_url": "https://bloghoantien.com/img/icon/logo-tiktok-shop-200.png",
+    "store_name": "TikTok Shop",
+    "code": "SALE50K",
+    "usage_percentage": 78,
+    "description": "Giảm 45k",
+    "min_order": "75k",
+    "expiry_date": "2025-10-31",
+    "url": "https://vt.tiktok.com/ZSHvpWWdJCAu9-OfKNZ/"
+  },
+  {
+    "image_url": "https://bloghoantien.com/img/icon/logo-tiktok-shop-200.png",
+    "store_name": "TikTok Shop",
+    "code": "BLOG10K",
+    "usage_percentage": 86,
+    "description": "Giảm 70k",
+    "min_order": "110k",
+    "expiry_date": "2025-10-31",
+    "url": "https://vt.tiktok.com/ZSHvpWWdJCAu9-OfKNZ/"
+  },
+  {
+    "image_url": "https://bloghoantien.com/img/icon/logo-tiktok-shop-200.png",
+    "store_name": "TikTok Shop",
+    "code": "DEAL25K",
+    "usage_percentage": 68,
+    "description": "Giảm 80k",
+    "min_order": "250k",
+    "expiry_date": "2025-10-31",
+    "url": "https://vt.tiktok.com/ZSHvpWWdJCAu9-OfKNZ/"
+  },
+    {
+      "image_url": "https://bloghoantien.com/public/img/mgg/freeship.jpg",
+      "store_name": "Freeship",
+      "code": "FREESHIP0D",
+      "usage_percentage": 71,
+      "description": "Giảm tối đa 30k",
+      "min_order": "0 đồng",
+      "expiry_date": "2025-07-31",
+      "url": "https://s.shopee.vn/7fOt23pSUy"
+    },
+    {
+      "image_url": "https://bloghoantien.com/public/img/mgg/freeship.jpg",
+      "store_name": "Hàng Cồng Kềnh",
+      "code": "FREESHIP1TR",
+      "usage_percentage": 11,
+      "description": "Giảm tối đa 150k",
+      "min_order": "1TR",
+      "expiry_date": "2025-07-31",
+      "url": "https://s.shopee.vn/1g7ft1ulns"
+    },
+    {
+      "image_url": "https://bloghoantien.com/public/img/mgg/freeship-xtra.jpg",
+      "store_name": "Toàn Ngành Hàng",
+      "code": "FREESHIP0D1",
+      "usage_percentage": 34,
+      "description": "Giảm tối đa 30k",
+      "min_order": "0 đồng",
+      "expiry_date": "2025-07-23",
+      "url": "https://s.shopee.vn/6VCvdtSORn"
+    },
+    {
+      "image_url": "https://bloghoantien.com/public/img/mgg/fs-thoitrang.jpg",
+      "store_name": "Freeship Thời Trang",
+      "code": "FREESHIP0D1T",
+      "usage_percentage": 47,
+      "description": "Giảm tối đa 30k",
+      "min_order": "0 đồng",
+      "expiry_date": "2025-07-31",
+      "url": "https://s.shopee.vn/6VCvdtSORn"
+    },
+    {
+      "image_url": "https://bloghoantien.com/public/img/mgg/freeship.jpg",
+      "store_name": "Tất cả hình thức thanh toán",
+      "code": "FREESHIP0D1T1",
+      "usage_percentage": 87,
+      "description": "Giảm tối đa 100k",
+      "min_order": "400k",
+      "expiry_date": "2025-07-31",
+      "url": "https://s.shopee.vn/6VCvdtSORn"
+    },
+    {
+      "image_url": "https://bloghoantien.com/public/img/mgg/choice.jpg",
+      "store_name": "Choice",
+      "code": "SBACKUPTRFFJULB2",
+      "usage_percentage": 22,
+      "description": "Giảm 10k",
+      "min_order": "30k",
+      "expiry_date": "2025-07-31",
+      "url": "https://s.shopee.vn/6VCvdtSORn"
+    },
+    {
+      "image_url": "https://bloghoantien.com/public/img/mgg/hangquocte.jpg",
+      "store_name": "Hàng Quốc Tế",
+      "code": "TT16JU",
+      "usage_percentage": 36,
+      "description": "Giảm 100k",
+      "min_order": "500k",
+      "expiry_date": "2025-07-31",
+      "url": "https://s.shopee.vn/6VCvdtSORn"
+    }
+]
